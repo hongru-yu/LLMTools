@@ -1,0 +1,1 @@
+ASCEND_RT_VISIBLE_DEVICES=1 python stream_chat_nohistory.py 
